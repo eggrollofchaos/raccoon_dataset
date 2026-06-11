@@ -1,0 +1,7 @@
+git-status.sh
+
+.agent-sessions/
+
+# Local/cache artifacts
+.DS_Store
+__pycache__/
